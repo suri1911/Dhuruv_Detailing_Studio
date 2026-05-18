@@ -33,9 +33,6 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-    </nav>
-
-    <!-- Mobile Menu -->
     <div class="mobile-menu" id="mobileMenu">
         <span class="mobile-close" onclick="toggleMenu()">✕</span>
         <a href="index.html" onclick="toggleMenu()">Home</a>
@@ -44,6 +41,10 @@
         <a href="gallery.php" onclick="toggleMenu()">Gallery</a>
         <a href="contact.html" onclick="toggleMenu()">Contact</a>
     </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+
 
     <!-- Page Header -->
     <header class="page-header">
